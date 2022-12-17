@@ -9,3 +9,5 @@ This map displays the current, as of 2021, hydropower assets in New England. The
 ### Using the map & notebook
 Within the Jupyter Notebook in this repo, you can find the data files used,
 see the geoprocessing done, and view a static map with slightly different styles. 
+
+![map](notebooks/ne-hydro.png)
