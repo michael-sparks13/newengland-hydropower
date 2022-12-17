@@ -106,4 +106,4 @@ venv.bak/
 #large data files
 water.dbf
 water.shp
-*.geojson
+ne_water.geojson
