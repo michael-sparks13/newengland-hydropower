@@ -125,7 +125,7 @@
         }
       ).addTo(map);
 
-      d3.json("data/ne_plants.geojson").then(drawMap);
+      d3.json("map/data/ne_plants.geojson").then(drawMap);
 
       function drawMap(data) {
         const plants = L.geoJson(data, {
